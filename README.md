@@ -1,2 +1,2 @@
 # ModelGalaxy
-The source code of paper: ModeGalaxy: A Task Centric Model Retrieval Platform
+The code of paper: ModelGalaxy: A Versatile Model Retrieval Platform
