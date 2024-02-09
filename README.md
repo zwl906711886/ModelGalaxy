@@ -1,6 +1,10 @@
 # ModelGalaxy
 The code of paper: ModelGalaxy: A Versatile Model Retrieval Platform
 
+## Overview
+![workflow7_00](https://github.com/zwl906711886/ModelGalaxy/assets/55490910/33e4b4bc-c844-4c75-a9ab-747b0b95969d)
+
+
 ## LLM Empowered Conversational Retrieval
 
 ## requirements
